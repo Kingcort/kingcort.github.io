@@ -1,0 +1,11 @@
+Mediaqueries (break point = när den nya koden ska börja gälla)
+
+Koden kmr bara funka när omständigheternas krav uppfylls 
+För att se strlk på skärm: välj: inspektera. dra sedan i högra hörnet
+
+@media only screen and (min-width: 760px)	{
+	.description-block	{
+		width: 50%;
+		font-size: 16px;
+	}
+}
